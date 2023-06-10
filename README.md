@@ -153,3 +153,8 @@ $ python manage.py runserver
 
 #### Communication
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+
+## 시현 영상
+<iframe width="956" height="538" src="https://youtu.be/mp7o-Hc4u1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
