@@ -144,7 +144,7 @@ $ python manage.py runserver
 <br>
 
 ## 시현 영상
-<img src = 'https://ibb.co/JzF3BW8'>
+<img src = '/시현영상.mp4'>
 
 ## Stacks
 #### Environment
