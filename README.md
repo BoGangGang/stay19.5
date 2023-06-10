@@ -143,6 +143,8 @@ $ python manage.py runserver
 >   macOS의 경우, **cmd-C**를 입력한다.
 <br>
 
+## 시현 영상
+<img src = 'https://ibb.co/JzF3BW8'>
 
 ## Stacks
 #### Environment
